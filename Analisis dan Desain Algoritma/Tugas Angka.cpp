@@ -10,7 +10,7 @@ int main(){
 	reverse(Data, Data + 7); 
 			
 	for (i=6; i>=0; i--){
-		cout << Data[i] ;
+		cout << Data[i];
 			for(b=1; b<=i; b++){
 				cout << "0" ;
 			}
