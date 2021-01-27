@@ -16,7 +16,7 @@ int main()
 	}
 	cout<<"Angka yang akan dihapus : ";
 	cin>>x;
-   for(int i=0;i<=7;i++)
+   for(int i=0;i<=x;i++)
     {
         if(arr[i]==x)
         {
